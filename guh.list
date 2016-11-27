@@ -1,0 +1,4 @@
+
+## guh repo
+deb http://repo.guh.guru xenial main
+deb-src http://repo.guh.guru xenail main
